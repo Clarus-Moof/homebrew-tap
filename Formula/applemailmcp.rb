@@ -1,9 +1,9 @@
 class Applemailmcp < Formula
   desc "Local MCP server for Apple Mail with Contacts integration"
   homepage "https://github.com/Clarus-Moof/AppleMailMCP"
-  url "https://github.com/Clarus-Moof/AppleMailMCP/releases/download/v1.0.9/AppleMailMCP-1.0.9.zip"
-  sha256 "52d52af0b3afbd75583a9a63fc9c80a65cd66f944e0623d4d0eb912ce84cc8db"
-  version "1.0.9"
+  url "https://github.com/Clarus-Moof/AppleMailMCP/releases/download/v1.1.0/AppleMailMCP-1.1.0.zip"
+  sha256 "352ac516fc401950bde557d063197bb539edae35fe163dfd1286cc4993d3492b"
+  version "1.1.0"
   license "MIT"
 
   on_macos do
